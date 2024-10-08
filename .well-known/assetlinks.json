@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.lavli",  
+      "package_name": "com.lavli",
       "sha256_cert_fingerprints": [
-        "B5:45:B7:8C:68:55:16:40:D3:95:E9:5A:CB:FD:B0:6D:06:FE:C1:BF:7B:8C:4B:8E:9B:3B:1C:46:2B:77:B3:16"  
+        "B5:45:B7:8C:68:55:16:40:D3:95:E9:5A:CB:FD:B0:6D:06:FE:C1:BF:7B:8C:4B:8E:9B:3B:1C:46:2B:77:B3:16"
       ]
     }
   }
